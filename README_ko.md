@@ -1,8 +1,6 @@
 # local-ai-stack
 
-<p align="center">
-  <strong>하나의 명령어로 나만의 프라이빗 AI 스택을 로컬에서 실행하세요.</strong>
-</p>
+[English](README.md) · [Bahasa Indonesia](README_id.md) · **한국어**
 
 <p align="center">
   <a href="#quickstart">빠른 시작</a> •
