@@ -1,8 +1,6 @@
 # local-ai-stack
 
-<p align="center">
-  <strong>Jalankan stack AI pribadi Anda secara lokal dengan satu perintah.</strong>
-</p>
+[English](README.md) · **Bahasa Indonesia** · [한국어](README_ko.md)
 
 <p align="center">
   <a href="#quickstart">Mulai Cepat</a> •
