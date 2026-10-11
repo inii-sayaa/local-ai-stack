@@ -1,5 +1,7 @@
 # local-ai-stack
 
+**English** · [Bahasa Indonesia](README_id.md) · [한국어](README_ko.md)
+
 <p align="center">
   <strong>Run your own private AI stack locally with one command.</strong>
 </p>
