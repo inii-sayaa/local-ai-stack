@@ -1,6 +1,6 @@
 # local-ai-stack
 
-[English](README.md) · [Bahasa Indonesia](README_id.md) · **한국어**
+[English](README.md) · [Bahasa Indonesia](README_id.md) · **한국어** · [العربية](README_ar.md) · [Español](README_es.md) · [中文](README_zh.md) · [Français](README_fr.md) · [日本語](README_ja.md) · [Deutsch](README_de.md) · [Português](README_pt.md) · [Русский](README_ru.md) · [हिन्दी](README_hi.md) · [Türkçe](README_tr.md) · [Italiano](README_it.md) · [Tiếng Việt](README_vi.md)
 
 <p align="center">
   <a href="#quickstart">빠른 시작</a> •
